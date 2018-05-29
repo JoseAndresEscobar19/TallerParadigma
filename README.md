@@ -1,0 +1,2 @@
+# TallerParadigma
+	Jose Escobar L
